@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Johnson;Jack;;;
+FN:Jack Johnson
+ORG:Healthcare Data Science and Intelligence Lab (HDSci Lab)
+TITLE:DPhil Student
+EMAIL;TYPE=INTERNET,WORK:jack.johnson@ccc.ox.ac.uk
+URL;TYPE=WORK:https://www.hdsci-lab.org
+URL:https://www.linkedin.com/in/jack-johnson-8721a3280/
+END:VCARD

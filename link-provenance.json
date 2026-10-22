@@ -1,0 +1,15 @@
+{
+  "checked": "2026-10-22",
+  "source": "HBCompFlyer_toprint_V2.pdf",
+  "ppi": {
+    "pdf_page": 2,
+    "url": "https://forms.cloud.microsoft/e/cZ9jpwyrPm?origin=QRCode",
+    "observed_title": "Registration of Interest: Help shape chronic hepatitis B research"
+  },
+  "project": {
+    "pdf_page": 1,
+    "url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=G96VzPWXk0-0uv5ouFLPke5hp8k8K8RPrjbGCv8zV01UN09DM1dOTVBTNklRQ1FSQU9RTzFMMEkyUy4u&origin=QRCode",
+    "observed_title": "Expression of Interest: HBV Information System"
+  },
+  "verification": "QRs decoded, browser landing pages inspected; no submissions made."
+}
